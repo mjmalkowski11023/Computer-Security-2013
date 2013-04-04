@@ -1,6 +1,8 @@
 http://www.symantec.com/connect/articles/windows-rootkits-2005-part-one
 http://www.darkreading.com/security-monitoring/167901086/security/news/240077564/finding-rootkits-by-monitoring-for-black-sheep.html
 http://en.wikipedia.org/wiki/Rootkit
+http://powerofcommunity.net/poc2006/sun.pdf
+http://www.eecs.umich.edu/Rio/papers/king06.pdf
 
 1. http://www.webopedia.com/TERM/R/rootkit.html
 2. http://en.wikipedia.org/wiki/Rootkit#Hypervisor_level
