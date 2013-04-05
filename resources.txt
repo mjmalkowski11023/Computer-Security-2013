@@ -9,3 +9,5 @@ http://www.eecs.umich.edu/Rio/papers/king06.pdf
 3. http://www.virtuatopia.com/index.php/An_Overview_of_Virtualization_Techniques
 4. http://www.eweek.com/c/a/Security/VM-Rootkits-The-Next-Big-Threat/1/
 5. http://it.slashdot.org/story/07/10/02/0323237/vm-based-rootkits-proved-easily-detectable
+
+http://www.cs.uiuc.edu/homes/kingst/Research_files/king06.pdf
